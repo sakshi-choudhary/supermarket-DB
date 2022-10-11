@@ -51,7 +51,7 @@ function App() {
 
   return (
     <div className="App bg-green-50 text-center">
-      <h1 className="text-4xl text-green-500 font-extrabold pt-10">
+      <h1 className="text-4xl text-green-600 font-extrabold pt-10">
         SUPERMARKET DATABASE 🏪
       </h1>
       <div className="flex items-center justify-items-center m-9 rounded-xl shadow overflow-hidden border-b border-gray-200 sm:rounded-lg border-1 bg-green-100 p-10">
